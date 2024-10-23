@@ -1,0 +1,104 @@
+[
+    {
+        "bookId": "1",
+        "bookName": "The Silent Patient",
+        "author": "Alex Michaelides",
+        "image": "https://i.ibb.co.com/Qd4bhZy/banner.png",
+        "review": "This gripping premise sets the stage for a complex narrative that delves into Alicia’s psyche, as well as that of Theo Faber, a psychotherapist who becomes fascinated with her case. Theo is determined to unravel the mystery behind Alicia’s silence and understand what drove her to commit such a violent act. His obsession with her case leads him to the Grove, a secure psychiatric facility where Alicia resides. Through Theo's eyes, readers are drawn into a world filled with tension, intrigue, and unexpected twists.",
+        "totalPages": 368,
+        "rating": 4.5,
+        "category": "Fiction",
+        "tags": [
+            "Thriller",
+            "Psychological",
+            "Mystery"
+        ],
+        "publisher": "Celadon Books",
+        "yearOfPublishing": 2019
+    },
+    {
+        "bookId": "2",
+        "bookName": "Educated",
+        "author": "Tara Westover",
+        "image": "https://i.ibb.co.com/ScPPvnG/book-1.jpg",
+        "review": "This gripping premise sets the stage for a complex narrative that delves into Alicia’s psyche, as well as that of Theo Faber, a psychotherapist who becomes fascinated with her case. Theo is determined to unravel the mystery behind Alicia’s silence and understand what drove her to commit such a violent act. His obsession with her case leads him to the Grove, a secure psychiatric facility where Alicia resides. Through Theo's eyes, readers are drawn into a world filled with tension, intrigue, and unexpected twists.",
+        "totalPages": 334,
+        "rating": 4.7,
+        "category": "Biography",
+        "tags": [
+            "Memoir",
+            "Education",
+            "Inspiration"
+        ],
+        "publisher": "Random House",
+        "yearOfPublishing": 2018
+    },
+    {
+        "bookId": "3",
+        "bookName": "The Midnight Library",
+        "author": "Matt Haig",
+        "image": "https://i.ibb.co.com/smQq301/book-5.jpg",
+        "review": "This gripping premise sets the stage for a complex narrative that delves into Alicia’s psyche, as well as that of Theo Faber, a psychotherapist who becomes fascinated with her case. Theo is determined to unravel the mystery behind Alicia’s silence and understand what drove her to commit such a violent act. His obsession with her case leads him to the Grove, a secure psychiatric facility where Alicia resides. Through Theo's eyes, readers are drawn into a world filled with tension, intrigue, and unexpected twists.",
+        "totalPages": 304,
+        "rating": 4.4,
+        "category": "Fiction",
+        "tags": [
+            "Fantasy",
+            "Philosophy",
+            "Self-Help"
+        ],
+        "publisher": "Viking",
+        "yearOfPublishing": 2020
+    },
+    {
+        "bookId": "4",
+        "bookName": "Where the Crawdads Sing",
+        "author": "Delia Owens",
+        "image": "https://i.ibb.co.com/M513sNK/book-2.jpg",
+        "review": "This gripping premise sets the stage for a complex narrative that delves into Alicia’s psyche, as well as that of Theo Faber, a psychotherapist who becomes fascinated with her case. Theo is determined to unravel the mystery behind Alicia’s silence and understand what drove her to commit such a violent act. His obsession with her case leads him to the Grove, a secure psychiatric facility where Alicia resides. Through Theo's eyes, readers are drawn into a world filled with tension, intrigue, and unexpected twists.",
+        "totalPages": 368,
+        "rating": 4.8,
+        "category": "Fiction",
+        "tags": [
+            "Literary Fiction",
+            "Nature",
+            "Mystery"
+        ],
+        "publisher": "G.P. Putnam's Sons",
+        "yearOfPublishing": 2018
+    },
+    {
+        "bookId": "5",
+        "bookName": "The Vanishing Half",
+        "author": "Brit Bennett",
+        "image": "https://i.ibb.co.com/F8YWzfj/book-3.jpg",
+        "review": "This gripping premise sets the stage for a complex narrative that delves into Alicia’s psyche, as well as that of Theo Faber, a psychotherapist who becomes fascinated with her case. Theo is determined to unravel the mystery behind Alicia’s silence and understand what drove her to commit such a violent act. His obsession with her case leads him to the Grove, a secure psychiatric facility where Alicia resides. Through Theo's eyes, readers are drawn into a world filled with tension, intrigue, and unexpected twists.",
+        "totalPages": 352,
+        "rating": 4.6,
+        "category": "Fiction",
+        "tags": [
+            "Contemporary",
+            "Drama",
+            "Family"
+        ],
+        "publisher": "Riverhead Books",
+        "yearOfPublishing": 2020
+    },
+    {
+        "bookId": "6",
+        "bookName": "Project Hail Mary",
+        "author": "Andy Weir",
+        "image": "https://i.ibb.co.com/6rr1z0T/book-4.jpg",
+        "review": "This gripping premise sets the stage for a complex narrative that delves into Alicia’s psyche, as well as that of Theo Faber, a psychotherapist who becomes fascinated with her case. Theo is determined to unravel the mystery behind Alicia’s silence and understand what drove her to commit such a violent act. His obsession with her case leads him to the Grove, a secure psychiatric facility where Alicia resides. Through Theo's eyes, readers are drawn into a world filled with tension, intrigue, and unexpected twists.",
+        "totalPages": 496,
+        "rating": 4.7,
+        "category": "Science Fiction",
+        "tags": [
+            "Space",
+            "Adventure",
+            "Thriller"
+        ],
+        "publisher": "Ballantine Books",
+        "yearOfPublishing": 2021
+    }
+]
